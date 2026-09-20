@@ -1,0 +1,17 @@
+# Power BI: arquivos temporarios e de autosave
+*.pbix.bak
+*.pbit.bak
+.pbi/
+**/.pbi/
+*.tmp
+~$*
+*.xlsx.tmp
+*.crdownload
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Arquivos de apoio locais (nunca sobem)
+_*

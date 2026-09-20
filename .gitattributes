@@ -1,0 +1,6 @@
+*.pbix binary
+*.pbit binary
+*.xlsx binary
+*.png binary
+*.gif binary
+*.md text eol=lf
